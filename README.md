@@ -1,6 +1,6 @@
 ## Currículum Vitae - Agustín F. Stigliano - Septiembre, 2023
 
-### Repo actual: https://github.com/jackonedev
+### Cuenta actual: https://github.com/jackonedev
 
 ### Versión PDF: [Link](https://github.com/AgustinSt1990/CV/blob/main/CV_Agustin_Stigliano_-_backend_data_science.pdf)
 
